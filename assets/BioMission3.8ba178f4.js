@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as s,b as c}from"./index.921212e6.js";const n={},t=c("h1",null,"Biomission 3",-1),_=[t];function i(r,a){return s(),o("div",null,_)}const d=e(n,[["render",i]]);export{d as default};
